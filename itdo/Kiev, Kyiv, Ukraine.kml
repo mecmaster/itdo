@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+	<Placemark>
+		<name>Kiev, Kyiv, Ukraine</name>
+		<description></description>
+		<Point>
+			<coordinates>30.555124,50.432361,0</coordinates>
+		</Point>
+	</Placemark>
+</kml>

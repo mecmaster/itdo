@@ -1,0 +1,7 @@
+RedirectMatch /magic* http://augmatic.co.uk/projects/ar_part_beam/arbeam.html
+RedirectMatch /smart* http://ge.ecomagination.com/smartgrid/ar/turbine.html?c_id=Huff
+RedirectMatch /cards/0 http://ge.ecomagination.com/smartgrid/ar/turbine.html?c_id=Huff
+RedirectMatch /cards/1 http://www.transistornyc.com/ARDemo2/
+RedirectMatch /cards/2 http://www.dbisinteractive.com/blog/media/webAR/main.html
+RedirectMatch /cards/3 http://yourzone.rfi-walmart.com/ar/walmart-ar.html
+

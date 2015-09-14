@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:302ECB62-4C98-4453-85AD-310E3DF7C653</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-07-15T11:41:06+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:997761AA-0602-4E99-B070-328E95AAC055</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">997761AA-0602-4E99-B070-328E95AAC055</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2011-07-15T11:41:06.001+03:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D94EE0BD-DDC2-42AA-8D1A-AFA2822F65B3</id>
+  <title>geroi</title>
+  <title xmlns="urn:iweb:">geroi</title>
+  <in-navbar xmlns="urn:iweb:">D94EE0BD-DDC2-42AA-8D1A-AFA2822F65B3</in-navbar>
+  <link rel="alternate" href="geroi.html"/>
+  <updated>2011-07-15T11:41:06.002+03:00</updated>
+  <content>geroi</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3ED2AC7B-B397-421A-8397-06F26E124551</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">3ED2AC7B-B397-421A-8397-06F26E124551</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2011-07-15T11:41:06.003+03:00</updated>
+  <content>Photos</content>
+ </entry>
+</feed>
